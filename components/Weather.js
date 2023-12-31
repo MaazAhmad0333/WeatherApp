@@ -24,7 +24,7 @@ import {
   haze_night,
 } from "../assets/index";
 
-const API_KEY = "789f36563579cb17239198ba22d3050e";
+const API_KEY = "";
 
 const Weather = (props) => {
   const [weatherData, setWeatherData] = useState(null);
